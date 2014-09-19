@@ -2,57 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="711af9ff-aee6-4226-a679-27bb83478570" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Attachment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Audit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CcEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/ChangeEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Comment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CommentEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CommentPrivacyChangeEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CreateEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/CustomFieldValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/ErrorEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/Event.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/ExternalEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/FacebookEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Field.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/FixedUri.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Group.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Identity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/LogMeInTranscriptEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/NotificationEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Organization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Photo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Priority.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/PublicPrivateEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/PushEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Request.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/SMSEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/SatisfactionRating.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/SatisfactionRatingEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/SearchResultEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Status.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/TemplateUri.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Ticket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/TicketSharingEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/TweetEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Type.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/Uri.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Via.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/VoiceCommentEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/Zendesk.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/ZendeskException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZendeskIntegrationGrailsPlugin.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/ZendeskResponseException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring-form.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/zendesk/AuthFailureException.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/TestController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/zendesk/ZendeskAPI.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/services/zendesk/ZendeskService.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/test/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/test/requests.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/test/search.gsp" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\FixedUri.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\TemplateUri.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\Uri.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\Zendesk.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\ZendeskException.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\ZendeskResponseException.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Attachment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Audit.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Comment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\CustomFieldValue.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Field.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Group.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Identity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Organization.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Photo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Priority.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Request.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\SatisfactionRating.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\SearchResultEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Status.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Ticket.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Type.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\User.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\Via.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\CcEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\ChangeEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\CommentEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\CommentPrivacyChangeEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\CreateEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\ErrorEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\Event.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\ExternalEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\FacebookEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\LogMeInTranscriptEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\NotificationEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\PublicPrivateEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\PushEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\SMSEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\SatisfactionRatingEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\TicketSharingEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\TweetEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\java\org\zendesk\client\v2\model\events\VoiceCommentEvent.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zendesk-integration.iws" />
@@ -77,11 +79,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/test/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85491073" vertical-offset="16" max-vertical-offset="935">
-              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            <state vertical-scroll-proportion="-3.4693878" vertical-offset="0" max-vertical-offset="340">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/TestController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="17.73913" vertical-offset="408" max-vertical-offset="1020">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZendeskAPI.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/groovy/zendesk/ZendeskAPI.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39772728" vertical-offset="1456" max-vertical-offset="3315">
+              <caret line="98" column="28" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="42" />
+              <folding>
+                <element signature="e#17#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServlet.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/dev/grails/lib/org.springframework/spring-webmvc/jars/spring-webmvc-3.2.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.84" vertical-offset="1682" max-vertical-offset="2278">
+              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/test/search.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0408163" vertical-offset="0" max-vertical-offset="204">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZendeskService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/zendesk/ZendeskService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -100,7 +164,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/services/zendesk/ZendeskService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/test/search.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/TestController.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/zendesk/ZendeskAPI.groovy" />
       </list>
     </option>
   </component>
@@ -158,6 +228,16 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zendesk" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\groovy" />
+      <recent name="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\grails-app\views" />
+    </key>
   </component>
   <component name="RunManager" selected="Grails.zendesk-integration">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -380,7 +460,7 @@
       <setting name="depsClasspath" value="false" />
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowser" value="false" />
       <RunnerSettings RunnerId="GrailsMavenDebuggerRunner">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -409,21 +489,26 @@
       <updated>1411122634012</updated>
       <workItem from="1411122644080" duration="1271000" />
       <workItem from="1411124499081" duration="16000" />
-      <workItem from="1411124697271" duration="421000" />
+      <workItem from="1411124697271" duration="1061000" />
+      <workItem from="1411126282956" duration="3868000" />
     </task>
     <task id="LOCAL-00001" summary="as">
       <created>1411124959219</created>
       <updated>1411124959219</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="as">
+      <created>1411125529313</created>
+      <updated>1411125529313</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1708000" />
+    <option name="totallyTimeSpent" value="6216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -431,9 +516,10 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -442,23 +528,57 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3982684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3982684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -479,13 +599,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="as" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/TestController.groovy</url>
+          <line>43</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/groovy/zendesk/ZendeskAPI.groovy</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/groovy/zendesk/ZendeskAPI.groovy</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="935">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="935">
@@ -502,11 +651,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85491073" vertical-offset="16" max-vertical-offset="935">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.27901787" vertical-offset="90" max-vertical-offset="986">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/test/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4693878" vertical-offset="0" max-vertical-offset="340">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/zendesk/ZendeskService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/test/search.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0408163" vertical-offset="0" max-vertical-offset="204">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/TestController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="17.73913" vertical-offset="408" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/grails/lib/org.springframework/spring-webmvc/jars/spring-webmvc-3.2.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.84" vertical-offset="1682" max-vertical-offset="2278">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovy/zendesk/ZendeskAPI.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39772728" vertical-offset="1456" max-vertical-offset="3315">
+          <caret line="98" column="28" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="42" />
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -517,7 +732,7 @@
         <entry key="zendesk-integration">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="742918391" />
+              <option name="buildConfigCrc" value="418999575" />
               <option name="pluginDependenciesCrc" value="-2115087625" />
               <option name="properties">
                 <map>
