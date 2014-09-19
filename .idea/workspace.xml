@@ -2,57 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="711af9ff-aee6-4226-a679-27bb83478570" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\FixedUri.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\TemplateUri.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\Uri.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\Zendesk.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\ZendeskException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\ZendeskResponseException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Attachment.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Audit.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Comment.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\CustomFieldValue.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Field.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Group.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Identity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Organization.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Photo.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Priority.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Request.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\SatisfactionRating.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\SearchResultEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Status.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Ticket.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Type.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\User.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\Via.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\CcEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\ChangeEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\CommentEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\CommentPrivacyChangeEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\CreateEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\ErrorEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\Event.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\ExternalEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\FacebookEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\LogMeInTranscriptEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\NotificationEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\PublicPrivateEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\PushEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\SMSEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\SatisfactionRatingEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\TicketSharingEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\TweetEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\main\java\org\zendesk\client\v2\model\events\VoiceCommentEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\test\java\org\zendesk\client\v2\RealSmokeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\test\java\org\zendesk\client\v2\ZendeskConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\test\java\org\zendesk\client\v2\model\StatusTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\workspace\rocketroi\tags\grails-plugins\zendesk\zendesk-integration\src\test\resources\.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Attachment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Audit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CcEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/ChangeEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CommentEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CommentPrivacyChangeEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/CreateEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/CustomFieldValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/ErrorEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/Event.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/ExternalEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/FacebookEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/FixedUri.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Group.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Identity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/LogMeInTranscriptEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/NotificationEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Organization.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Photo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Priority.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/PublicPrivateEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/PushEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Request.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/SMSEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/SatisfactionRating.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/SatisfactionRatingEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/SearchResultEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Status.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/TemplateUri.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Ticket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/TicketSharingEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/TweetEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Type.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/Uri.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/Via.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/model/events/VoiceCommentEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/Zendesk.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/ZendeskException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZendeskIntegrationGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/org/zendesk/client/v2/ZendeskResponseException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring-form.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zendesk-integration.iws" />
@@ -160,6 +160,12 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Grails.zendesk-integration">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="zendesk-integration" />
       <setting name="vmparams" value="" />
@@ -170,18 +176,28 @@
       <setting name="launchBrowser" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -212,34 +228,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -259,6 +247,130 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="false" name="zendesk-integration" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -297,12 +409,17 @@
       <updated>1411122634012</updated>
       <workItem from="1411122644080" duration="1271000" />
       <workItem from="1411124499081" duration="16000" />
-      <workItem from="1411124697271" duration="186000" />
+      <workItem from="1411124697271" duration="421000" />
     </task>
+    <task id="LOCAL-00001" summary="as">
+      <created>1411124959219</created>
+      <updated>1411124959219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1473000" />
+    <option name="totallyTimeSpent" value="1708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -310,30 +427,31 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -357,6 +475,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="as" />
+    <option name="LAST_COMMIT_MESSAGE" value="as" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
