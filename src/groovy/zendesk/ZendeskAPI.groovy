@@ -1,30 +1,31 @@
 package zendesk
 
-import grails.converters.JSON
-import groovyx.net.http.RESTClient
-import org.slf4j.LoggerFactory
-
 import static groovyx.net.http.ContentType.*
 import static groovyx.net.http.Method.*
+import grails.converters.JSON
+import groovyx.net.http.RESTClient
+
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
 
 class ZendeskAPI {
-    
-    static log = LoggerFactory.getLogger(ZendeskAPI)
+
+    static Logger log = LoggerFactory.getLogger(ZendeskAPI)
 
     def client
     def user
     def password
-    
-    static STATUS_NEW = 0
-    static STATUS_OPEN = 1
-    static STATUS_PENDING = 2
-    static STATUS_SOLVED = 3
-    static STATUS_CLOSED = 4
-    
+
+    static final int STATUS_NEW = 0
+    static final int STATUS_OPEN = 1
+    static final int STATUS_PENDING = 2
+    static final int STATUS_SOLVED = 3
+    static final int STATUS_CLOSED = 4
+
     ZendeskAPI(baseURL) {
         client = new RESTClient(baseURL)
     }
-    
+
     def postBinaryFile(String url, String type, InputStream content, args = null) {
         client.auth.basic user, password
         def res = client.request(POST) {
@@ -40,11 +41,11 @@ class ZendeskAPI {
                     headers."${entry.key}" = entry.value
                 }
             }
-            
+
             response.'401' = { resp ->
                 throw new AuthFailureException("Cannot make binary post request")
             }
-            
+
             response.'201' = { resp ->
                 log.debug "Zendesk API post binary file to $url returned 201 Created"
                 return resp
@@ -56,7 +57,7 @@ class ZendeskAPI {
         }
         return res
     }
-    
+
     def postRequest(url, payload, args = null) {
         client.auth.basic user, password
         def res = client.request(POST) {
@@ -72,11 +73,11 @@ class ZendeskAPI {
                     headers."${entry.key}" = entry.value
                 }
             }
-            
+
             response.'401' = { resp ->
                 throw new AuthFailureException("Cannot make post request")
             }
-            
+
             response.'201' = { resp ->
                 log.debug "Zendesk API post to $url returned 201 Created"
                 return resp
@@ -84,7 +85,7 @@ class ZendeskAPI {
         }
         return res
     }
-    
+
     def getRequest(url, args = null) {
         client.auth.basic user, password
         def res = client.request(GET, JSON) {
@@ -99,19 +100,17 @@ class ZendeskAPI {
                     headers."${entry.key}" = entry.value
                 }
             }
-            
+
             response.'401' = { resp ->
                 throw new AuthFailureException("Cannot make get request")
             }
-            
+
             response.'200' = { resp, json ->
                 log.debug "Zendesk API get to $url returned 200"
-                return json 
+                return json
             }
         }
-        if (log.debugEnabled) {
-            log.debug "Zendesk response was: ${res}"
-        }
+        log.debug "Zendesk response was: ${res}"
         return res
     }
 
@@ -119,12 +118,12 @@ class ZendeskAPI {
         def resp = postBinaryFile("/api/v1/uploads.json", contentType, content, [query:[filename:filename]])
         if (resp) {
             return resp.upload.id // return the ID
-        } else {
-            log.error "Could not create Zendesk attachment: ${resp.status} (${resp.statusLine})"
-            return null
         }
+
+        log.error "Could not create Zendesk attachment: ${resp.status} (${resp.statusLine})"
+        return null
     }
-    
+
     /**
      * Create a new request (as an end-user)
      *
@@ -161,30 +160,29 @@ class ZendeskAPI {
         def resp = postRequest('/requests.xml', body, [headers:['X-On-Behalf-Of':args.onBehalfOf]])
         if (resp.status == 201) {
             return resp.getLastHeader('Location')
-        } else {
-            log.error "Could not create zendesk issue: ${resp.status} (${resp.statusLine})"
-            return null
         }
+
+        log.error "Could not create zendesk issue: ${resp.status} (${resp.statusLine})"
+        return null
     }
-    
+
     def search(query) {
         def resp = getRequest('/api/v2/search.json', [query:[query:query]])
         if (resp != null) {
             return resp
-        } else {
-            log.error "Could not search zendesk tickets"
-            return null
         }
+
+        log.error "Could not search zendesk tickets"
+        return null
     }
-    
+
     def getRequests() {
         def resp = getRequest('/requests.json')
         if (resp != null) {
             return resp
-        } else {
-            log.error "Could not get zendesk tickets"
-            return null
         }
+
+        log.error "Could not get zendesk tickets"
+        return null
     }
-    
 }
