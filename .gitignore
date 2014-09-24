@@ -1,0 +1,7 @@
+/target
+/web-app/WEB-INF
+plugin.xml
+.settings
+*.log
+grails-zendesk-integration-*.zip
+grails-zendesk-integration-*.zip.sha1
